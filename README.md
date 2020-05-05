@@ -1,5 +1,10 @@
 # Sentimental-anaysis-of-text
 
+This project is our final year project under guidance of Pr.Tushar champaneria.
+
+Idea : Sentiment anaysys of Text and Aspect based sentiment anaysis of Text
+
+Technology stack used : Python,Django,Scrapy,Tensorflow,BERT
 
 Project Video : https://www.youtube.com/watch?v=AhVbHUnbrDs&t=15s
 
