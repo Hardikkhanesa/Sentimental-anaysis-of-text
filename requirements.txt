@@ -52,7 +52,7 @@ gitdb2==2.0.5
 GitPython==2.1.11
 guess-language-spirit==0.5.3
 html-linter==0.3.0
-httplib2==0.9.2
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.8
 imagesize==1.1.0
