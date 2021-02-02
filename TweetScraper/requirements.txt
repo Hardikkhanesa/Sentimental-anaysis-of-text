@@ -8,7 +8,7 @@ Automat==0.7.0
 beautifulsoup4==4.8.2
 bert==2.2.0
 bert-tensorflow==1.0.1
-bleach==1.5.0
+bleach==3.3.0
 bson==0.5.8
 cachetools==4.0.0
 certifi==2019.11.28
