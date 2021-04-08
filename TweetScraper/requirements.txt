@@ -20,7 +20,7 @@ constantly==15.1.0
 cryptography==2.7
 cssselect==1.1.0
 dataclasses==0.6
-Django==2.2.9
+Django==2.2.20
 django-mongodb-engine==0.6.0
 django-rest-framework-mongoengine==3.4.1
 djangorestframework==3.11.0
